@@ -42,7 +42,7 @@ Introduction
 Signals and systems: Part I
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec02-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec02-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Signals and systems: Part I
 Signals and systems: Part II
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec03-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec03-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ Signals and systems: Part II
 Convolution
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec04-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec04-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Convolution
 Properties of linear, time-invariant systems
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec05-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec05-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Properties of linear, time-invariant systems
 Systems represented by differential and difference equations
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec06-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec06-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ Systems represented by differential and difference equations
 Continuous-time Fourier series
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec07-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec07-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +114,7 @@ Continuous-time Fourier series
 Continuous-time Fourier transform
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec08-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec08-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Continuous-time Fourier transform
 Fourier transform properties
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec09-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec09-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +138,7 @@ Fourier transform properties
 Discrete-time Fourier series
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec10-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec10-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ Discrete-time Fourier series
 Discrete-time Fourier transform
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec11-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec11-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Discrete-time Fourier transform
 Filtering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec12-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec12-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +174,7 @@ Filtering
 Continuous-time modulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec13-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec13-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ Continuous-time modulation
 Demonstration of amplitude modulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec14-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec14-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Demonstration of amplitude modulation
 Discrete-time modulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec15-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec15-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +210,7 @@ Discrete-time modulation
 Sampling
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec16-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec16-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +222,7 @@ Sampling
 Interpolation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec17-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec17-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ Interpolation
 Discrete-time processing of continuous-time signals
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec18))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +246,7 @@ Discrete-time processing of continuous-time signals
 Discrete-time sampling
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec19-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec19-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ Discrete-time sampling
 The Laplace transform
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec20-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec20-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +270,7 @@ The Laplace transform
 Continuous-time second-order systems
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec21-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec21-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +282,7 @@ Continuous-time second-order systems
 The z-transform
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec22-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec22-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +294,7 @@ The z-transform
 Mapping continuous-time filters to discrete-time filters
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec23-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec23-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +306,7 @@ Mapping continuous-time filters to discrete-time filters
 Butterworth filters
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec24-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec24-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +318,7 @@ Butterworth filters
 Feedback
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec25-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec25-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -330,7 +330,7 @@ Feedback
 Feedback example: The inverted pendulum
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec26-1))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_lec26-1))
 {{< tdclose >}}
 
 {{< trclose >}}

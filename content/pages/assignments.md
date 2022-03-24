@@ -226,10 +226,10 @@ Continuous-time modulation
 Demonstration of amplitude modulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_hw14))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_hw14))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_6_007s11_hw14_sol))
+([PDF]({{< baseurl >}}/resources/mitres_6_007s11_hw14_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
