@@ -4,6 +4,7 @@ description: 'This resource contains information related to feedback example: th
   inverted pendulum.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-007-signals-and-systems-spring-2011/6dce2ba279cba5cf55050f343f6b718c_MITRES_6_007S11_lec26.pdf
 file_type: application/pdf
+parent_uid: 03f3a033-eec6-8163-6dbc-ff50345fb002
 resourcetype: Document
 title: MITRES_6_007S11_lec26.pdf
 uid: 6dce2ba2-79cb-a5cf-5505-0f343f6b718c
